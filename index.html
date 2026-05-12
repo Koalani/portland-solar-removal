@@ -145,42 +145,24 @@
           <div class="promise-item"><span class="promise-check">✓</span> Serving all Portland metro cities</div>
         </div>
       </div>
-      <form id="quoteForm" onsubmit="handleSubmit(event)">
-        <div class="form-row">
-          <div class="form-group"><label>First Name *</label><input type="text" placeholder="Jane" required /></div>
-          <div class="form-group"><label>Last Name *</label><input type="text" placeholder="Smith" required /></div>
-        </div>
-        <div class="form-group"><label>Phone Number *</label><input type="tel" placeholder="(503) 555-0100" required /></div>
-        <div class="form-group"><label>Email Address *</label><input type="email" placeholder="jane@email.com" required /></div>
-        <div class="form-group"><label>Service Address *</label><input type="text" placeholder="123 Main St, Portland OR" required /></div>
-        <div class="form-group">
-          <label>Service Needed *</label>
-          <select required>
-            <option value="" disabled selected>Select a service</option>
-            <option>Solar panel removal only</option>
-            <option>Solar panel removal + reinstallation</option>
-            <option>Solar panel reinstallation only</option>
-            <option>Solar system inspection / repair</option>
-            <option>Not sure — need advice</option>
-          </select>
-        </div>
-        <div class="form-group">
-          <label>Project Timeline *</label>
-          <select required>
-            <option value="" disabled selected>When do you need this done?</option>
-            <option>ASAP / Emergency</option>
-            <option>Within 2 weeks</option>
-            <option>Within 1 month</option>
-            <option>1–3 months</option>
-            <option>Just getting quotes</option>
-          </select>
-        </div>
-        <div class="form-group"><label>Additional Notes</label><textarea placeholder="System brand, number of panels, roof material, or anything else helpful..."></textarea></div>
-        <iframe data-tally-src="https://tally.so/embed/7R1O70?alignLeft=1&hideTitle=1&transparentBackground=1&dynamicHeight=1" loading="lazy" width="100%" height="429" frameborder="0" marginheight="0" marginwidth="0" title="Portland Solar Removal & Reinstall Pros — Free Quote"></iframe>
-<script>var d=document,w="https://tally.so/widgets/embed.js",v=function(){"undefined"!=typeof Tally?Tally.loadEmbeds():d.querySelectorAll("iframe[data-tally-src]:not([src])").forEach((function(e){e.src=e.dataset.tallySrc}))};if("undefined"!=typeof Tally)v();else if(d.querySelector('script[src="'+w+'"]')==null){var s=d.createElement("script");s.src=w,s.onload=v,s.onerror=v,d.body.appendChild(s);}</script>
-        <p class="form-note">🔒 Your info is never sold or shared with third parties</p>
-        <div class="success-msg" id="successMsg">✅ Thanks! A local contractor will reach out within a few hours.</div>
-      </form>
+      <iframe 
+  data-tally-src="https://tally.so/r/7R1O70" 
+  loading="lazy"
+  width="100%" 
+  height="600" 
+  frameborder="0"
+  marginheight="0"
+  marginwidth="0"
+  title="Free Quote Form">
+</iframe>
+<script>
+  var d=document,w="https://tally.so/widgets/embed.js",
+  v=function(){"undefined"!=typeof Tally?
+  Tally.loadEmbeds():d.querySelectorAll("iframe[data-tally-src]:not([src])").forEach((function(e){e.src=e.dataset.tallySrc}))};
+  if("undefined"!=typeof Tally)v();
+  else if(d.querySelector('script[src="'+w+'"]')==null){
+  var s=d.createElement("script");s.src=w,s.onload=v,s.onerror=v,d.body.appendChild(s);}
+</script>
     </div>
   </div>
 </section>
@@ -266,8 +248,7 @@
 
 <script>
   function toggleFaq(btn){const item=btn.closest('.faq-item');const isOpen=item.classList.contains('open');document.querySelectorAll('.faq-item').forEach(i=>i.classList.remove('open'));if(!isOpen)item.classList.add('open');}
-  function handleSubmit(e){e.preventDefault();const btn=document.getElementById('submitBtn');const success=document.getElementById('successMsg');btn.textContent='Sending...';btn.disabled=true;setTimeout(()=>{success.style.display='block';btn.style.display='none';document.querySelectorAll('#quoteForm input,#quoteForm select,#quoteForm textarea').forEach(el=>el.disabled=true);},1000);}
-  document.querySelectorAll('a[href^="#"]').forEach(a=>{a.addEventListener('click',e=>{const target=document.querySelector(a.getAttribute('href'));if(target){e.preventDefault();target.scrollIntoView({behavior:'smooth',block:'start'});}});});
+  
 </script>
 </body>
 </html>
