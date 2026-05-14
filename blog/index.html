@@ -1,0 +1,360 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Solar Removal Blog | Portland Solar Removal & Reinstall Pros</title>
+  <meta name="description" content="Expert tips, local guides, and answers to common questions about solar panel removal and reinstallation in the Portland Oregon metro area.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&family=Source+Serif+4:ital,wght@0,300;0,400;0,600;1,300&display=swap" rel="stylesheet">
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --sun: #E8A020;
+      --sun-light: #F5C842;
+      --slate: #1C2B3A;
+      --slate-mid: #2E4155;
+      --fog: #F7F5F2;
+      --fog-dark: #E2DED8;
+      --text: #1A1A1A;
+      --text-muted: #5A6370;
+      --white: #FFFFFF;
+    }
+
+    body {
+      font-family: 'Source Serif 4', Georgia, serif;
+      background: var(--white);
+      color: var(--text);
+      line-height: 1.7;
+      font-size: 17px;
+    }
+
+    /* NAV */
+    .nav {
+      background: var(--white);
+      border-bottom: 1px solid var(--fog-dark);
+      padding: 18px 24px;
+      position: sticky;
+      top: 0;
+      z-index: 100;
+    }
+
+    .nav .container {
+      max-width: 900px;
+      margin: 0 auto;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .nav-brand {
+      font-family: 'Playfair Display', serif;
+      font-weight: 700;
+      font-size: 1rem;
+      color: var(--slate);
+      text-decoration: none;
+    }
+
+    .nav-brand span { color: var(--sun); }
+
+    .nav-link {
+      font-size: 0.88rem;
+      font-weight: 600;
+      color: var(--slate);
+      text-decoration: none;
+      letter-spacing: 0.04em;
+      padding: 10px 22px;
+      background: var(--sun);
+      transition: background 0.2s;
+    }
+
+    .nav-link:hover { background: var(--sun-light); }
+
+    /* HERO */
+    .hero {
+      background: var(--fog);
+      border-bottom: 3px solid var(--sun);
+      padding: 64px 24px 56px;
+    }
+
+    .container { max-width: 900px; margin: 0 auto; }
+
+    .eyebrow {
+      font-size: 12px;
+      font-weight: 600;
+      letter-spacing: 0.18em;
+      text-transform: uppercase;
+      color: var(--sun);
+      margin-bottom: 16px;
+    }
+
+    .hero h1 {
+      font-family: 'Playfair Display', serif;
+      font-size: clamp(2rem, 4vw, 2.8rem);
+      font-weight: 900;
+      line-height: 1.15;
+      color: var(--slate);
+      margin-bottom: 16px;
+    }
+
+    .hero p {
+      font-size: 1.05rem;
+      font-weight: 300;
+      color: var(--text-muted);
+      max-width: 560px;
+    }
+
+    /* CATEGORY FILTER */
+    .filter-bar {
+      padding: 28px 24px 0;
+      border-bottom: 1px solid var(--fog-dark);
+    }
+
+    .filter-bar .container {
+      display: flex;
+      gap: 8px;
+      flex-wrap: wrap;
+      padding-bottom: 0;
+    }
+
+    .filter-tag {
+      font-size: 0.82rem;
+      font-weight: 600;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+      padding: 8px 16px;
+      border: 1.5px solid var(--fog-dark);
+      color: var(--text-muted);
+      text-decoration: none;
+      transition: all 0.15s;
+      cursor: pointer;
+      background: none;
+    }
+
+    .filter-tag:hover, .filter-tag.active {
+      border-color: var(--sun);
+      color: var(--slate);
+      background: rgba(232,160,32,0.08);
+    }
+
+    /* BLOG GRID */
+    .blog-section { padding: 56px 24px 80px; }
+
+    .blog-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+      gap: 32px;
+      margin-top: 40px;
+    }
+
+    .post-card {
+      background: var(--white);
+      border: 1px solid var(--fog-dark);
+      transition: box-shadow 0.2s, transform 0.15s;
+      text-decoration: none;
+      color: inherit;
+      display: flex;
+      flex-direction: column;
+    }
+
+    .post-card:hover {
+      box-shadow: 0 8px 32px rgba(28,43,58,0.10);
+      transform: translateY(-2px);
+    }
+
+    .card-top {
+      background: var(--slate);
+      padding: 28px 24px 24px;
+      position: relative;
+    }
+
+    .card-category {
+      font-size: 11px;
+      font-weight: 600;
+      letter-spacing: 0.15em;
+      text-transform: uppercase;
+      color: var(--sun-light);
+      margin-bottom: 12px;
+    }
+
+    .card-title {
+      font-family: 'Playfair Display', serif;
+      font-size: 1.15rem;
+      font-weight: 700;
+      line-height: 1.3;
+      color: var(--white);
+    }
+
+    .card-body {
+      padding: 20px 24px 24px;
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+    }
+
+    .card-excerpt {
+      font-size: 0.92rem;
+      color: var(--text-muted);
+      line-height: 1.65;
+      flex: 1;
+      margin-bottom: 20px;
+    }
+
+    .card-meta {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 0.82rem;
+      color: var(--text-muted);
+      border-top: 1px solid var(--fog-dark);
+      padding-top: 14px;
+    }
+
+    .card-date { font-weight: 300; }
+
+    .card-read {
+      font-weight: 600;
+      color: var(--sun);
+      letter-spacing: 0.04em;
+    }
+
+    /* FEATURED POST */
+    .post-card.featured {
+      grid-column: 1 / -1;
+      flex-direction: row;
+    }
+
+    .post-card.featured .card-top {
+      flex: 0 0 38%;
+      padding: 36px 32px;
+    }
+
+    .post-card.featured .card-title {
+      font-size: 1.5rem;
+    }
+
+    .post-card.featured .card-body {
+      padding: 28px 32px;
+    }
+
+    .post-card.featured .card-excerpt {
+      font-size: 1rem;
+    }
+
+    /* CTA STRIP */
+    .cta-strip {
+      background: var(--slate);
+      padding: 48px 24px;
+      text-align: center;
+    }
+
+    .cta-strip h2 {
+      font-family: 'Playfair Display', serif;
+      font-size: 1.6rem;
+      font-weight: 700;
+      color: var(--white);
+      margin-bottom: 12px;
+    }
+
+    .cta-strip p {
+      color: rgba(255,255,255,0.72);
+      font-size: 0.97rem;
+      margin-bottom: 28px;
+    }
+
+    .btn-primary {
+      display: inline-block;
+      background: var(--sun);
+      color: var(--slate);
+      font-weight: 600;
+      font-size: 0.95rem;
+      letter-spacing: 0.04em;
+      padding: 14px 32px;
+      text-decoration: none;
+      transition: background 0.2s;
+    }
+
+    .btn-primary:hover { background: var(--sun-light); }
+
+    .footer-note {
+      text-align: center;
+      padding: 20px;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      border-top: 1px solid var(--fog-dark);
+    }
+
+    @media (max-width: 680px) {
+      .post-card.featured { flex-direction: column; }
+      .post-card.featured .card-top { flex: none; }
+    }
+  </style>
+</head>
+<body>
+
+<nav class="nav">
+  <div class="container">
+    <a href="https://portlandsolarremovalpros.com" class="nav-brand">Portland Solar <span>Removal Pros</span></a>
+    <a href="https://portlandsolarremovalpros.com/#quote" class="nav-link">Get a Quote</a>
+  </div>
+</nav>
+
+<section class="hero">
+  <div class="container">
+    <p class="eyebrow">Portland Metro Solar Removal Blog</p>
+    <h1>Solar Panel Removal &amp; Reinstall — Answers for Portland Homeowners</h1>
+    <p>Local guides, cost breakdowns, and expert advice for the Portland metro area — written by the team that removes and reinstalls solar panels every day.</p>
+  </div>
+</section>
+
+<div class="filter-bar">
+  <div class="container">
+    <span class="filter-tag active">All Posts</span>
+    <span class="filter-tag">How-To</span>
+    <span class="filter-tag">Cost &amp; Pricing</span>
+    <span class="filter-tag">Problem / Solution</span>
+    <span class="filter-tag">Seasonal</span>
+    <span class="filter-tag">City Guides</span>
+  </div>
+</div>
+
+<section class="blog-section">
+  <div class="container">
+
+    <div class="blog-grid">
+
+      <!-- FEATURED POST -->
+      <a href="/blog/how-to-plan-roof-replacement-with-solar-panels-portland.html" class="post-card featured">
+        <div class="card-top">
+          <p class="card-category">How-To · Portland Metro</p>
+          <h2 class="card-title">How to Plan a Roof Replacement When You Have Solar Panels in Portland</h2>
+        </div>
+        <div class="card-body">
+          <p class="card-excerpt">Most Portland homeowners don't realize the roof replacement and solar removal need to be sequenced — not just scheduled. Get the order wrong and you're paying for delays, voided warranties, or a roofer who won't touch the job. Here's how to do it right in the Portland metro.</p>
+          <div class="card-meta">
+            <span class="card-date">May 2026</span>
+            <span class="card-read">Read Post →</span>
+          </div>
+        </div>
+      </a>
+
+    </div>
+
+    <!-- More posts will appear here as you add them -->
+
+  </div>
+</section>
+
+<div class="cta-strip">
+  <div class="container">
+    <h2>Need a Solar Removal Quote?</h2>
+    <p>We serve Oregon City, Beaverton, Hillsboro, Lake Oswego, Tigard, and the entire Portland metro.</p>
+    <a href="https://portlandsolarremovalpros.com/#quote" class="btn-primary">Get Your Free Quote →</a>
+  </div>
+</div>
+
+<p class="footer-note">Portland Solar Removal &amp; Reinstall Pros · Oregon CCB Licensed · Serving the Portland Metro Area</p>
+
+</body>
+</html>
