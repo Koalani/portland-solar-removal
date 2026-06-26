@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Insurance Claims for Solar Removal After Storm or Hail Damage | Portland Solar Removal & Reinstall Pros</title>
+<meta name="description" content="Storm or hail damage forcing a roof replacement with solar panels on it? Here's what's typically covered by insurance for removal and reinstallation, and what isn't.">
+<style>
+  :root {
+    --navy: #0f2a3d;
+    --sun: #f5a623;
+    --sun-deep: #e0911a;
+    --sky: #2f7fb8;
+    --paper: #fbf9f5;
+    --ink: #1c2b33;
+    --ink-soft: #4a5a63;
+    --line: #e3ddd2;
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; color: var(--ink); background: var(--paper); line-height: 1.65; }
+  a { color: var(--sky); text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  a:focus-visible, button:focus-visible { outline: 3px solid var(--sun); outline-offset: 2px; }
+  header.site-header { background: var(--navy); color: #fff; padding: 16px 24px; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 12px; }
+  .brand { font-weight: 700; font-size: 1.05rem; color: #fff; letter-spacing: 0.01em; }
+  .brand:hover { text-decoration: none; opacity: 0.9; }
+  nav.site-nav { display: flex; align-items: center; gap: 20px; flex-wrap: wrap; }
+  nav.site-nav a { color: #dce8ef; font-size: 0.95rem; }
+  nav.site-nav a:hover { color: #fff; }
+  .cta-button { background: var(--sun); color: var(--navy); font-weight: 700; padding: 10px 20px; border-radius: 6px; display: inline-block; white-space: nowrap; }
+  .cta-button:hover { background: var(--sun-deep); text-decoration: none; }
+  main { max-width: 720px; margin: 0 auto; padding: 0 24px; }
+  .article-header { padding: 48px 0 28px; border-bottom: 1px solid var(--line); }
+  .eyebrow { color: var(--sun-deep); font-weight: 700; font-size: 0.8rem; letter-spacing: 0.08em; text-transform: uppercase; }
+  h1.article-title { font-size: clamp(1.8rem, 4vw, 2.4rem); line-height: 1.2; margin: 10px 0 14px; color: var(--navy); }
+  .article-meta { color: var(--ink-soft); font-size: 0.92rem; }
+  article { padding: 32px 0 8px; }
+  article p { margin: 0 0 20px; font-size: 1.05rem; }
+  article h2 { color: var(--navy); font-size: 1.4rem; margin: 40px 0 14px; padding-top: 4px; }
+  article ul, article ol { margin: 0 0 20px; padding-left: 1.3em; }
+  article li { margin-bottom: 8px; font-size: 1.05rem; }
+  article strong { color: var(--navy); }
+  .callout { background: #fff; border: 1px solid var(--line); border-left: 4px solid var(--sun); border-radius: 6px; padding: 18px 20px; margin: 28px 0; }
+  .callout p { margin: 0; font-size: 1rem; }
+  .inline-cta { background: var(--navy); color: #fff; border-radius: 10px; padding: 32px 28px; margin: 44px 0 48px; text-align: center; }
+  .inline-cta h3 { color: #fff; margin: 0 0 10px; font-size: 1.3rem; }
+  .inline-cta p { color: #dce8ef; margin: 0 0 20px; font-size: 1rem; }
+  .inline-cta .cta-button { font-size: 1.05rem; padding: 12px 28px; }
+  footer.site-footer { background: var(--navy); color: #b9c8d1; padding: 40px 24px 28px; margin-top: 40px; font-size: 0.92rem; }
+  footer.site-footer .footer-inner { max-width: 960px; margin: 0 auto; }
+  footer.site-footer strong { color: #fff; }
+  footer.site-footer .footer-links { margin: 14px 0; }
+  footer.site-footer .footer-links a { color: #dce8ef; margin-right: 16px; }
+  footer.site-footer .disclosure { margin-top: 18px; font-size: 0.8rem; color: #8fa3ad; line-height: 1.5; }
+  @media (max-width: 640px) { nav.site-nav { width: 100%; justify-content: flex-start; } .article-header { padding-top: 32px; } }
+</style>
+</head>
+<body>
+
+<header class="site-header">
+  <a class="brand" href="/">Portland Solar Removal &amp; Reinstall Pros</a>
+  <nav class="site-nav">
+    <a href="/#cities">Service Areas</a>
+    <a href="/#faq">FAQ</a>
+    <a class="cta-button" href="/#quote">Get Free Quote</a>
+  </nav>
+</header>
+
+<main>
+
+  <div class="article-header">
+    <div class="eyebrow">Insurance &amp; Claims</div>
+    <h1 class="article-title">Insurance Claims for Solar Removal After Storm or Hail Damage</h1>
+    <div class="article-meta">Portland Solar Removal &amp; Reinstall Pros</div>
+  </div>
+
+  <article>
+
+    <p>If a windstorm or hail damaged your roof badly enough that it needs replacing, and you've got solar panels in the way, you're dealing with two problems at once: the roof claim itself, and the question of who pays to remove and reinstall the panels so the roofers can actually get to work.</p>
+
+    <p>This is one of the most confusing parts of the whole process, because the answer depends on your specific policy, the cause of the damage, and how your insurer classifies the work. Here's how to think it through.</p>
+
+    <h2>The key distinction: why does the roof need replacing?</h2>
+
+    <p>This is the single biggest factor in whether removal and reinstallation costs get covered:</p>
+
+    <ul>
+      <li><strong>Storm, hail, wind, or fire damage (a "covered peril")</strong> — if your roof needs replacing because of sudden damage from an event your policy covers, the removal and reinstallation labor needed to complete that repair is often included as part of the claim. Insurers sometimes call this "detach and reset" coverage.</li>
+      <li><strong>Age, wear, or deferred maintenance</strong> — if you're replacing the roof simply because it's old, removal and reinstall costs are generally your responsibility, not your insurer's, regardless of what's on the roof.</li>
+    </ul>
+
+    <p>In other words: the same removal-and-reinstall job can be fully covered or entirely out-of-pocket depending purely on <em>why</em> the roof is being replaced — not on the work itself.</p>
+
+    <h2>How solar panels are typically classified on your policy</h2>
+
+    <p>Most standard homeowners policies treat roof-mounted, permanently attached solar panels as part of your home's structure, covered under dwelling coverage (often labeled "Coverage A"). That means damage from a covered peril — including damage that necessitates removal during a roof repair — is generally treated the same way as damage to the roof itself.</p>
+
+    <p>A few classification details that matter:</p>
+
+    <ul>
+      <li><strong>Owned systems</strong> are generally covered under your own dwelling coverage.</li>
+      <li><strong>Leased systems or PPAs</strong> are often insured separately by the leasing company, meaning you may need to coordinate the claim with them directly rather than your own homeowners policy.</li>
+      <li><strong>Ground-mounted systems</strong> are sometimes classified differently — often under "other structures" coverage — which can carry separate, lower limits.</li>
+    </ul>
+
+    <div class="callout">
+      <p><strong>If you have a lease or PPA:</strong> contact your leasing company before filing anything with your homeowners insurer. Responsibility for removal/reinstall costs may sit with them, not you, and filing in the wrong order can complicate both claims.</p>
+    </div>
+
+    <h2>The wind/hail deductible problem</h2>
+
+    <p>Many policies — especially in storm-prone regions — apply a separate, often higher, deductible specifically for wind and hail claims, sometimes structured as a percentage of your dwelling coverage rather than a flat dollar amount. This matters because if the cost to repair storm damage to your panels falls under that deductible, you may receive little or nothing from the claim even though the damage is technically "covered."</p>
+
+    <p>Before assuming a claim will offset your removal/reinstall costs, it's worth confirming with your agent:</p>
+
+    <ul>
+      <li>Do I have a separate wind/hail deductible, and does it apply to solar equipment specifically?</li>
+      <li>Does my policy cover the labor to detach and reset solar panels as part of a covered roof claim?</li>
+      <li>Are my panels settled at replacement cost, or actual cash value (which factors in depreciation and can leave a gap)?</li>
+    </ul>
+
+    <h2>What documentation actually helps your claim</h2>
+
+    <p>Whether or not removal/reinstall costs are covered, solid documentation makes the entire claims process faster and reduces back-and-forth with your adjuster:</p>
+
+    <ul>
+      <li><strong>Photos of the damage</strong> — both the roof and the panels — taken as soon as possible after the storm, ideally before any work begins.</li>
+      <li><strong>A written estimate</strong> from a licensed solar contractor that separately itemizes removal, storage, and reinstallation costs, distinct from the roofing estimate.</li>
+      <li><strong>Your original solar installation paperwork</strong>, if you have it — system cost, panel/inverter make and model, and installation date.</li>
+      <li><strong>Confirmation of licensing and insurance</strong> for whoever performs the removal and reinstall, since some insurers ask for this before approving reimbursement.</li>
+    </ul>
+
+    <h2>A typical claim scenario</h2>
+
+    <p>To make this concrete: a hailstorm damages a Portland-area roof badly enough to require full replacement. The homeowner has owned (not leased) panels, covered under dwelling coverage. Their policy includes detach-and-reset language for covered perils, but also carries a separate wind/hail deductible. In practice, this often means:</p>
+
+    <ul>
+      <li>The roof replacement and the panel removal/reinstall labor are both included in the claim</li>
+      <li>The total payout is reduced by the wind/hail deductible first, which may be higher than the homeowner's standard deductible</li>
+      <li>Any panels physically damaged by the hail (cracked glass, bent racking) are assessed and paid out separately from the labor to detach and reset undamaged panels</li>
+    </ul>
+
+    <p>Every policy is different, so this is illustrative rather than a guarantee of how your specific claim will be handled — but it shows how the pieces typically fit together.</p>
+
+    <h2>The bottom line</h2>
+
+    <p>Whether your insurer covers solar removal and reinstallation comes down to why your roof needs replacing, how your policy classifies the panels, and what deductible structure applies. The best first move is a direct conversation with your insurance agent — ask specifically about detach-and-reset coverage and any separate wind/hail deductible — before you assume either way.</p>
+
+    <p>Once you know what's covered, we can connect you with a licensed Portland-area contractor who can provide the itemized, insurance-ready estimate most adjusters ask for.</p>
+
+    <div class="inline-cta">
+      <h3>Get an insurance-ready removal &amp; reinstall estimate</h3>
+      <p>Free quote, same-day response, zero obligation.</p>
+      <a class="cta-button" href="/#quote">Get a Free Quote →</a>
+    </div>
+
+    <p style="font-size:0.85rem; color: var(--ink-soft); margin-top:8px;">This article is for general information only and isn't insurance or legal advice. Insurance policies vary significantly — always confirm coverage details directly with your insurance agent or carrier before making claim decisions.</p>
+
+  </article>
+
+</main>
+
+<footer class="site-footer">
+  <div class="footer-inner">
+    <strong>Portland Solar Removal &amp; Reinstall Pros</strong><br>
+    Serving Portland, Beaverton, Hillsboro, Lake Oswego, Tigard, Tualatin, Gresham, Oregon City, Troutdale, Vancouver WA and all Portland metro communities.<br>
+    A solar contractor referral service connecting homeowners with licensed Oregon CCB contractors.
+    <div class="footer-links">
+      <a href="/#quote">Get a Free Quote</a>
+      <a href="/#cities">Service Areas</a>
+      <a href="/#faq">FAQ</a>
+    </div>
+    <div class="disclosure">
+      <strong>Disclosure:</strong> By submitting your information on this website, you agree that your contact details may be shared with local, licensed, and insured vendors who will reach out and contact you directly using the information provided. © 2026 Portland Solar Removal &amp; Reinstall Pros. All rights reserved.
+    </div>
+  </div>
+</footer>
+
+</body>
+</html>
