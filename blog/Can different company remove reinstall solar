@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Can a Different Company Remove and Reinstall My Solar Panels? | Portland Solar Removal & Reinstall Pros</title>
+<meta name="description" content="Your original solar installer isn't available or no longer in business? Here's what to know about switching companies for removal and reinstallation.">
+<style>
+  :root {
+    --navy: #0f2a3d;
+    --sun: #f5a623;
+    --sun-deep: #e0911a;
+    --sky: #2f7fb8;
+    --paper: #fbf9f5;
+    --ink: #1c2b33;
+    --ink-soft: #4a5a63;
+    --line: #e3ddd2;
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; color: var(--ink); background: var(--paper); line-height: 1.65; }
+  a { color: var(--sky); text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  a:focus-visible, button:focus-visible { outline: 3px solid var(--sun); outline-offset: 2px; }
+  header.site-header { background: var(--navy); color: #fff; padding: 16px 24px; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 12px; }
+  .brand { font-weight: 700; font-size: 1.05rem; color: #fff; letter-spacing: 0.01em; }
+  .brand:hover { text-decoration: none; opacity: 0.9; }
+  nav.site-nav { display: flex; align-items: center; gap: 20px; flex-wrap: wrap; }
+  nav.site-nav a { color: #dce8ef; font-size: 0.95rem; }
+  nav.site-nav a:hover { color: #fff; }
+  .cta-button { background: var(--sun); color: var(--navy); font-weight: 700; padding: 10px 20px; border-radius: 6px; display: inline-block; white-space: nowrap; }
+  .cta-button:hover { background: var(--sun-deep); text-decoration: none; }
+  main { max-width: 720px; margin: 0 auto; padding: 0 24px; }
+  .article-header { padding: 48px 0 28px; border-bottom: 1px solid var(--line); }
+  .eyebrow { color: var(--sun-deep); font-weight: 700; font-size: 0.8rem; letter-spacing: 0.08em; text-transform: uppercase; }
+  h1.article-title { font-size: clamp(1.8rem, 4vw, 2.4rem); line-height: 1.2; margin: 10px 0 14px; color: var(--navy); }
+  .article-meta { color: var(--ink-soft); font-size: 0.92rem; }
+  article { padding: 32px 0 8px; }
+  article p { margin: 0 0 20px; font-size: 1.05rem; }
+  article h2 { color: var(--navy); font-size: 1.4rem; margin: 40px 0 14px; padding-top: 4px; }
+  article ul, article ol { margin: 0 0 20px; padding-left: 1.3em; }
+  article li { margin-bottom: 8px; font-size: 1.05rem; }
+  article strong { color: var(--navy); }
+  .callout { background: #fff; border: 1px solid var(--line); border-left: 4px solid var(--sun); border-radius: 6px; padding: 18px 20px; margin: 28px 0; }
+  .callout p { margin: 0; font-size: 1rem; }
+  table.compat { width: 100%; border-collapse: collapse; margin: 28px 0; font-size: 0.98rem; }
+  table.compat th, table.compat td { text-align: left; padding: 10px 12px; border-bottom: 1px solid var(--line); }
+  table.compat th { color: var(--navy); font-size: 0.85rem; text-transform: uppercase; letter-spacing: 0.03em; }
+  .inline-cta { background: var(--navy); color: #fff; border-radius: 10px; padding: 32px 28px; margin: 44px 0 48px; text-align: center; }
+  .inline-cta h3 { color: #fff; margin: 0 0 10px; font-size: 1.3rem; }
+  .inline-cta p { color: #dce8ef; margin: 0 0 20px; font-size: 1rem; }
+  .inline-cta .cta-button { font-size: 1.05rem; padding: 12px 28px; }
+  footer.site-footer { background: var(--navy); color: #b9c8d1; padding: 40px 24px 28px; margin-top: 40px; font-size: 0.92rem; }
+  footer.site-footer .footer-inner { max-width: 960px; margin: 0 auto; }
+  footer.site-footer strong { color: #fff; }
+  footer.site-footer .footer-links { margin: 14px 0; }
+  footer.site-footer .footer-links a { color: #dce8ef; margin-right: 16px; }
+  footer.site-footer .disclosure { margin-top: 18px; font-size: 0.8rem; color: #8fa3ad; line-height: 1.5; }
+  @media (max-width: 640px) { nav.site-nav { width: 100%; justify-content: flex-start; } .article-header { padding-top: 32px; } table.compat { font-size: 0.88rem; } }
+</style>
+</head>
+<body>
+
+<header class="site-header">
+  <a class="brand" href="/">Portland Solar Removal &amp; Reinstall Pros</a>
+  <nav class="site-nav">
+    <a href="/#cities">Service Areas</a>
+    <a href="/#faq">FAQ</a>
+    <a class="cta-button" href="/#quote">Get Free Quote</a>
+  </nav>
+</header>
+
+<main>
+
+  <div class="article-header">
+    <div class="eyebrow">Compatibility Q&amp;A</div>
+    <h1 class="article-title">Can a Different Company Remove and Reinstall My Solar Panels?</h1>
+    <div class="article-meta">Portland Solar Removal &amp; Reinstall Pros</div>
+  </div>
+
+  <article>
+
+    <p>Short answer: yes, in almost every case. You don't need to use your original installer to have your panels removed and reinstalled for a roof replacement, repair, or any other reason. What matters is that the new company is licensed, qualified, and familiar with your specific system.</p>
+
+    <p>That said, there are a few real factors that determine how smoothly this goes — and a few situations where it's worth doing extra homework first. Here's the full picture.</p>
+
+    <h2>Why homeowners end up needing a different company</h2>
+
+    <p>This comes up more often than you'd think:</p>
+
+    <ul>
+      <li><strong>The original installer went out of business.</strong> This is extremely common in the solar industry — installers open, expand quickly, and close at a higher rate than most contracting trades.</li>
+      <li><strong>The original installer only does new installs</strong> and doesn't offer removal/reinstall services, or has a multi-month wait.</li>
+      <li><strong>The homeowner isn't the original owner</strong> — they bought a house with existing solar and have no relationship with whoever installed it.</li>
+      <li><strong>Timing doesn't work</strong> — the roofer is ready to start and the original installer can't schedule removal in time.</li>
+    </ul>
+
+    <p>In every one of these cases, a different licensed contractor stepping in is completely normal and is, in fact, the entire reason removal-and-reinstall specialist companies exist.</p>
+
+    <h2>What actually matters when switching companies</h2>
+
+    <p>The question isn't "can a different company do this" — it's "does this specific company know how to do this with <em>my</em> system." A few things determine that:</p>
+
+    <h2>1. Inverter and equipment compatibility</h2>
+
+    <p>Solar systems vary more than people expect, mostly around how the panels connect to the inverter and how the racking attaches to the roof. The most common types a Portland-area contractor will run into:</p>
+
+    <table class="compat">
+      <tr><th>System type</th><th>What it means for removal/reinstall</th></tr>
+      <tr><td>String inverter (centralized)</td><td>One main inverter; panels are wired in a series "string." Disconnection happens at fewer points but requires care with the DC wiring.</td></tr>
+      <tr><td>Microinverters (e.g. Enphase)</td><td>Each panel has its own small inverter attached underneath it. More individual connection points, but failures are isolated to single panels.</td></tr>
+      <tr><td>Power optimizers (e.g. SolarEdge)</td><td>A hybrid approach — optimizers at each panel, one central inverter. Requires familiarity with both.</td></tr>
+      <tr><td>Rail-based racking</td><td>Panels mount to aluminum rails attached to the roof. Common, well understood by most solar electricians.</td></tr>
+      <tr><td>Rail-less racking</td><td>Panels attach directly to roof-mounted brackets without rails. Less common, and worth confirming the new company has handled it before.</td></tr>
+    </table>
+
+    <p>A qualified contractor should be able to identify your system type from a couple of photos and confirm they've worked with it before you book anything.</p>
+
+    <h2>2. Warranty implications</h2>
+
+    <p>We cover this in detail in our <a href="/blog/will-new-roof-void-solar-warranty.html">warranty guide</a>, but the short version: most manufacturer warranties require the work be done by a licensed, qualified installer — not necessarily your <em>original</em> one. Your workmanship warranty is the piece more likely to be installer-specific, so it's worth a quick check with whoever issued it.</p>
+
+    <h2>3. Permits and utility coordination</h2>
+
+    <p>Any licensed contractor pulling permits and coordinating with your utility (PGE or Pacific Power, depending on your location in the metro) should be able to do this regardless of who installed your original system. This isn't tied to your original installer in any way — it's a standard part of any licensed contractor's process.</p>
+
+    <h2>4. Documentation from the original install</h2>
+
+    <p>This is the one place where having your original installer's paperwork actually helps, even if they're not doing the work. If you have your original installation permit, system design documents, or commissioning report, share them with your new contractor — it speeds up the process and helps them confirm exactly what they're working with before they're on your roof.</p>
+
+    <p>If you don't have this paperwork (common if you bought the house secondhand, or the original company is long gone), a qualified contractor can usually identify what they need just from inspecting the system in person.</p>
+
+    <div class="callout">
+      <p><strong>If you can't find your original paperwork:</strong> the make and model are usually printed directly on the panel frame and the inverter housing. A photo of those labels is often enough for a new contractor to confirm compatibility before they ever step on your roof.</p>
+    </div>
+
+    <h2>What to ask before hiring a new company</h2>
+
+    <p>We go through this in more depth in our <a href="/blog/questions-to-ask-solar-removal-reinstall-company.html">guide to questions to ask before hiring</a>, but the short list specific to switching companies:</p>
+
+    <ul>
+      <li>Have you worked with this panel brand and inverter type before?</li>
+      <li>Will this affect my manufacturer's warranty? My workmanship warranty?</li>
+      <li>Do you need my original installation paperwork, or can you work without it?</li>
+      <li>Can you confirm compatibility from photos before I commit to a quote?</li>
+    </ul>
+
+    <h2>The bottom line</h2>
+
+    <p>Switching companies for removal and reinstall is normal, common, and usually painless — as long as the new contractor is licensed and has genuine experience with your specific equipment. The original installer relationship matters far less than most homeowners assume; what matters is finding someone who knows your system type and handles the warranty and permitting pieces correctly.</p>
+
+    <p>If you're not sure who installed your system or what type it is, we can help identify it from a few photos and match you with a Portland-area contractor experienced with your exact setup.</p>
+
+    <div class="inline-cta">
+      <h3>Get matched with a contractor who knows your system</h3>
+      <p>Free quote, same-day response, zero obligation.</p>
+      <a class="cta-button" href="/#quote">Get a Free Quote →</a>
+    </div>
+
+  </article>
+
+</main>
+
+<footer class="site-footer">
+  <div class="footer-inner">
+    <strong>Portland Solar Removal &amp; Reinstall Pros</strong><br>
+    Serving Portland, Beaverton, Hillsboro, Lake Oswego, Tigard, Tualatin, Gresham, Oregon City, Troutdale, Vancouver WA and all Portland metro communities.<br>
+    A solar contractor referral service connecting homeowners with licensed Oregon CCB contractors.
+    <div class="footer-links">
+      <a href="/#quote">Get a Free Quote</a>
+      <a href="/#cities">Service Areas</a>
+      <a href="/#faq">FAQ</a>
+    </div>
+    <div class="disclosure">
+      <strong>Disclosure:</strong> By submitting your information on this website, you agree that your contact details may be shared with local, licensed, and insured vendors who will reach out and contact you directly using the information provided. © 2026 Portland Solar Removal &amp; Reinstall Pros. All rights reserved.
+    </div>
+  </div>
+</footer>
+
+</body>
+</html>
