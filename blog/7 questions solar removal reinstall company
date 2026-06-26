@@ -1,0 +1,346 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>7 Questions to Ask Before Hiring a Solar Removal &amp; Reinstall Company | Portland Solar Removal & Reinstall Pros</title>
+<meta name="description" content="Getting quotes for solar panel removal and reinstallation in Portland? Ask these 7 questions first to avoid voided warranties, hidden fees, and roof damage.">
+<style>
+  :root {
+    --navy: #0f2a3d;
+    --sun: #f5a623;
+    --sun-deep: #e0911a;
+    --sky: #2f7fb8;
+    --paper: #fbf9f5;
+    --ink: #1c2b33;
+    --ink-soft: #4a5a63;
+    --line: #e3ddd2;
+  }
+
+  * { box-sizing: border-box; }
+
+  body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+    color: var(--ink);
+    background: var(--paper);
+    line-height: 1.65;
+  }
+
+  a { color: var(--sky); text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  a:focus-visible, button:focus-visible { outline: 3px solid var(--sun); outline-offset: 2px; }
+
+  /* ---------- Header ---------- */
+  header.site-header {
+    background: var(--navy);
+    color: #fff;
+    padding: 16px 24px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 12px;
+  }
+
+  .brand {
+    font-weight: 700;
+    font-size: 1.05rem;
+    color: #fff;
+    letter-spacing: 0.01em;
+  }
+
+  .brand:hover { text-decoration: none; opacity: 0.9; }
+
+  nav.site-nav { display: flex; align-items: center; gap: 20px; flex-wrap: wrap; }
+
+  nav.site-nav a { color: #dce8ef; font-size: 0.95rem; }
+  nav.site-nav a:hover { color: #fff; }
+
+  .cta-button {
+    background: var(--sun);
+    color: var(--navy);
+    font-weight: 700;
+    padding: 10px 20px;
+    border-radius: 6px;
+    display: inline-block;
+    white-space: nowrap;
+  }
+
+  .cta-button:hover {
+    background: var(--sun-deep);
+    text-decoration: none;
+  }
+
+  /* ---------- Article shell ---------- */
+  main { max-width: 720px; margin: 0 auto; padding: 0 24px; }
+
+  .article-header {
+    padding: 48px 0 28px;
+    border-bottom: 1px solid var(--line);
+  }
+
+  .eyebrow {
+    color: var(--sun-deep);
+    font-weight: 700;
+    font-size: 0.8rem;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+  }
+
+  h1.article-title {
+    font-size: clamp(1.8rem, 4vw, 2.4rem);
+    line-height: 1.2;
+    margin: 10px 0 14px;
+    color: var(--navy);
+  }
+
+  .article-meta {
+    color: var(--ink-soft);
+    font-size: 0.92rem;
+  }
+
+  article { padding: 32px 0 8px; }
+
+  article p { margin: 0 0 20px; font-size: 1.05rem; }
+
+  article h2 {
+    color: var(--navy);
+    font-size: 1.4rem;
+    margin: 40px 0 14px;
+    padding-top: 4px;
+  }
+
+  article ul, article ol { margin: 0 0 20px; padding-left: 1.3em; }
+  article li { margin-bottom: 8px; font-size: 1.05rem; }
+
+  article strong { color: var(--navy); }
+
+  .callout {
+    background: #fff;
+    border: 1px solid var(--line);
+    border-left: 4px solid var(--sun);
+    border-radius: 6px;
+    padding: 18px 20px;
+    margin: 28px 0;
+  }
+
+  .callout p { margin: 0; font-size: 1rem; }
+
+  .inline-cta {
+    background: var(--navy);
+    color: #fff;
+    border-radius: 10px;
+    padding: 32px 28px;
+    margin: 44px 0 48px;
+    text-align: center;
+  }
+
+  .inline-cta h3 {
+    color: #fff;
+    margin: 0 0 10px;
+    font-size: 1.3rem;
+  }
+
+  .inline-cta p {
+    color: #dce8ef;
+    margin: 0 0 20px;
+    font-size: 1rem;
+  }
+
+  .inline-cta .cta-button { font-size: 1.05rem; padding: 12px 28px; }
+
+  /* ---------- Footer ---------- */
+  footer.site-footer {
+    background: var(--navy);
+    color: #b9c8d1;
+    padding: 40px 24px 28px;
+    margin-top: 40px;
+    font-size: 0.92rem;
+  }
+
+  footer.site-footer .footer-inner {
+    max-width: 960px;
+    margin: 0 auto;
+  }
+
+  footer.site-footer strong { color: #fff; }
+
+  footer.site-footer .footer-links { margin: 14px 0; }
+  footer.site-footer .footer-links a { color: #dce8ef; margin-right: 16px; }
+
+  footer.site-footer .disclosure {
+    margin-top: 18px;
+    font-size: 0.8rem;
+    color: #8fa3ad;
+    line-height: 1.5;
+  }
+
+  @media (max-width: 640px) {
+    nav.site-nav { width: 100%; justify-content: flex-start; }
+    .article-header { padding-top: 32px; }
+  }
+</style>
+</head>
+<body>
+
+<header class="site-header">
+  <a class="brand" href="/">Portland Solar Removal &amp; Reinstall Pros</a>
+  <nav class="site-nav">
+    <a href="/#cities">Service Areas</a>
+    <a href="/#faq">FAQ</a>
+    <a class="cta-button" href="/#quote">Get Free Quote</a>
+  </nav>
+</header>
+
+<main>
+
+  <div class="article-header">
+    <div class="eyebrow">Hiring Guide</div>
+    <h1 class="article-title">7 Questions to Ask Before Hiring a Solar Panel Removal &amp; Reinstall Company</h1>
+    <div class="article-meta">Portland Solar Removal &amp; Reinstall Pros</div>
+  </div>
+
+  <article>
+
+    <p>If you're getting a new roof and you've got solar panels in the way, you're probably collecting quotes right now from a few different companies. That's smart — but pricing isn't the only thing that separates a good solar removal and reinstall job from an expensive headache.</p>
+
+    <p>We've seen panels re-mounted incorrectly by crews who don't usually do this kind of work. We've seen Portland homeowners lose their workmanship warranty because nobody told them removal by an outside company would void it. We've watched "quick reinstalls" turn into three-week delays because a crew didn't pull permits ahead of time.</p>
+
+    <p>Before you sign anything, ask every company on your shortlist these seven questions. The answers will tell you a lot more than the quote will.</p>
+
+    <h2>1. "Will removing and reinstalling my panels affect my solar warranty?"</h2>
+
+    <p>This is the single most important question on this list, and it's the one most homeowners forget to ask.</p>
+
+    <p>Most solar workmanship warranties are tied to the original installer. If a different company touches your system — even just to remove and reinstall it — many manufacturers and installers will consider that warranty void. Not "reduced." Void.</p>
+
+    <p>A good answer sounds like: <em>"Here's exactly what our work does and doesn't affect, and here's how to confirm it with your original installer or the manufacturer before we start."</em> A bad answer is a vague "don't worry about it" with no follow-up.</p>
+
+    <p>If your original installer is still in business, it's often worth calling them first, even if their quote comes in higher. If they've gone out of business — which happens a lot in this industry — or you're not happy with their service, ask any new company to show you, in writing, what warranty coverage applies to the reinstalled system.</p>
+
+    <h2>2. "What happens if you find roof damage once the panels are off?"</h2>
+
+    <p>Roof replacement is often the <em>reason</em> panels come off in the first place, but sometimes crews find unexpected problems once they get under the array: rotted decking, old penetrations that were never properly flashed, corroded mounting hardware, or wiring that doesn't meet current code.</p>
+
+    <p>Ask how the company handles surprises:</p>
+
+    <ul>
+      <li>Do they stop and call you, or do they "handle it" and add it to the invoice afterward?</li>
+      <li>Is there a documented process for showing you the damage — photos, not just a verbal description — before doing extra work?</li>
+      <li>Who's responsible for sealing roof penetrations left behind by the old mounting hardware?</li>
+    </ul>
+
+    <p>That last one matters more than people realize. Old lag bolt holes that aren't properly sealed before your new roof goes on are a common source of leaks down the road — and it's much easier to fix that gap <em>before</em> the new roofing material covers it up.</p>
+
+    <h2>3. "Can I see your solar contractor license and insurance?"</h2>
+
+    <p>This sounds basic, but it's the question that filters out the crews you don't want on your roof.</p>
+
+    <p>Solar removal and reinstallation involves de-energizing a live electrical system, working at height, and reconnecting components to code. Any legitimate company should be able to immediately provide:</p>
+
+    <ul>
+      <li>A current Oregon CCB license (electrical or solar-specific, depending on the scope of work)</li>
+      <li>General liability insurance</li>
+      <li>Workers' compensation coverage for the crew</li>
+    </ul>
+
+    <p>If a company hesitates, gives you a generic "we're licensed and insured" without specifics, or can't produce documentation, that's a sign to keep shopping. If something goes wrong on your roof — a fall, a fire, a damaged panel — you do not want to find out after the fact that you're the one holding the liability.</p>
+
+    <div class="callout">
+      <p><strong>Portland note:</strong> Oregon CCB licensing is searchable for free on the state's website. Any contractor can give you a license number to look up in about 30 seconds — if they can't, that's worth noting.</p>
+    </div>
+
+    <h2>4. "Who pulls the permits, and how long does that take?"</h2>
+
+    <p>Most jurisdictions require a permit to disconnect and reconnect a grid-tied solar system, and your utility company — PGE or Pacific Power, depending on where you live in the metro — typically needs to be notified before the system is reenergized.</p>
+
+    <p>Ask directly:</p>
+
+    <ul>
+      <li>Does the company handle permitting, or is that on you?</li>
+      <li>How long does permitting typically take in your city or county?</li>
+      <li>Does the reinstall date depend on permit approval, or can work start before it's finalized?</li>
+    </ul>
+
+    <p>This question matters because permit delays are one of the most common reasons a "two-week" reinstall turns into a five-week one. A company that's done this many times across the Portland metro will usually have a realistic answer ready, not a guess.</p>
+
+    <h2>5. "How long will my system be down, and what does that cost me?"</h2>
+
+    <p>Every day your panels are off the roof is a day you're not generating power and not offsetting your electric bill. For most homeowners that's a manageable, temporary cost — and as we cover in our FAQ, PGE and Pacific Power both allow net metering credits to bank while your system is offline. But the timeline varies a lot based on the company's coordination with your roofer, and it's worth getting specifics rather than a vague estimate.</p>
+
+    <p>Good questions to layer on:</p>
+
+    <ul>
+      <li>Is removal scheduled to happen right before the roofer starts, or days in advance?</li>
+      <li>Is reinstallation scheduled immediately after the roof is finished, or do you go into a queue?</li>
+      <li>If weather delays the roofing work, does that push your reinstall date too?</li>
+    </ul>
+
+    <p>Companies that handle a high volume of removal-and-reinstall work — as opposed to companies that mostly do new installs and treat this as a side job — tend to have tighter, more predictable timelines because they're used to coordinating around roofing crews.</p>
+
+    <h2>6. "What's included in the quote, and what could add to the cost?"</h2>
+
+    <p>Removal and reinstall pricing is usually quoted per panel, but the final bill can move based on factors that aren't always spelled out up front. Ask the company to walk through exactly what's covered and what isn't, including:</p>
+
+    <ul>
+      <li>Disconnection, removal, storage, and reinstallation of the panels themselves</li>
+      <li>Removal and reinstallation — or replacement — of racking and mounting hardware</li>
+      <li>New flashing, lag bolts, or other small hardware that may need replacing</li>
+      <li>Re-energizing and recommissioning the system once panels are back up</li>
+      <li>What happens if a panel is damaged during removal — who's responsible?</li>
+      <li>Whether system monitoring and inverter checks are included after reinstall</li>
+    </ul>
+
+    <p>Getting this in writing protects both sides. It also makes it much easier to compare quotes apples-to-apples, since the lowest number on paper sometimes turns into the highest number after add-ons.</p>
+
+    <h2>7. "Have you done this exact kind of job before — and can I talk to a recent customer?"</h2>
+
+    <p>Installing solar and removing-and-reinstalling solar are related skills, but they're not the same job. A company that mostly sells new systems may not have much practice working around an existing array, an existing roof, and someone else's original installation.</p>
+
+    <p>Ask:</p>
+
+    <ul>
+      <li>How many removal-and-reinstall projects have you done in the past year?</li>
+      <li>Have you worked on my specific panel brand or mounting system before — Enphase, SolarEdge, rail-less, or otherwise?</li>
+      <li>Can you connect me with a recent customer who had a similar project — same roof type, similar system size, similar reason for removal?</li>
+    </ul>
+
+    <p>A company that does this work regularly should be able to answer quickly and specifically. Hesitation or generic reassurance here is worth paying attention to.</p>
+
+    <h2>The bottom line</h2>
+
+    <p>Price matters, but on a project like this, the cheapest quote isn't always the cheapest outcome. A company that can't clearly answer these seven questions is more likely to cost you in warranty headaches, schedule delays, or roof problems that show up months later.</p>
+
+    <p>If you're getting ready to remove panels for a roof replacement, repair, or relocation in the Portland metro, we're happy to walk through all seven of these with you directly — including connecting you with a licensed local contractor who can show you their CCB license, insurance, and exactly what's covered before you decide on anything.</p>
+
+    <div class="inline-cta">
+      <h3>Get matched with a licensed Portland contractor today</h3>
+      <p>Free quote, same-day response, zero obligation.</p>
+      <a class="cta-button" href="/#quote">Get a Free Quote →</a>
+    </div>
+
+  </article>
+
+</main>
+
+<footer class="site-footer">
+  <div class="footer-inner">
+    <strong>Portland Solar Removal &amp; Reinstall Pros</strong><br>
+    Serving Portland, Beaverton, Hillsboro, Lake Oswego, Tigard, Tualatin, Gresham, Oregon City, Troutdale, Vancouver WA and all Portland metro communities.<br>
+    A solar contractor referral service connecting homeowners with licensed Oregon CCB contractors.
+
+    <div class="footer-links">
+      <a href="/#quote">Get a Free Quote</a>
+      <a href="/#cities">Service Areas</a>
+      <a href="/#faq">FAQ</a>
+    </div>
+
+    <div class="disclosure">
+      <strong>Disclosure:</strong> By submitting your information on this website, you agree that your contact details may be shared with local, licensed, and insured vendors who will reach out and contact you directly using the information provided. © 2026 Portland Solar Removal &amp; Reinstall Pros. All rights reserved.
+    </div>
+  </div>
+</footer>
+
+</body>
+</html>
