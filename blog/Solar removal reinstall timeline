@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The Solar Removal & Reinstall Timeline: What to Expect Week by Week | Portland Solar Removal & Reinstall Pros</title>
+<meta name="description" content="Planning a roof replacement with solar panels? Here's a realistic week-by-week timeline for solar removal and reinstallation in the Portland metro.">
+<style>
+  :root {
+    --navy: #0f2a3d;
+    --sun: #f5a623;
+    --sun-deep: #e0911a;
+    --sky: #2f7fb8;
+    --paper: #fbf9f5;
+    --ink: #1c2b33;
+    --ink-soft: #4a5a63;
+    --line: #e3ddd2;
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; color: var(--ink); background: var(--paper); line-height: 1.65; }
+  a { color: var(--sky); text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  a:focus-visible, button:focus-visible { outline: 3px solid var(--sun); outline-offset: 2px; }
+  header.site-header { background: var(--navy); color: #fff; padding: 16px 24px; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 12px; }
+  .brand { font-weight: 700; font-size: 1.05rem; color: #fff; letter-spacing: 0.01em; }
+  .brand:hover { text-decoration: none; opacity: 0.9; }
+  nav.site-nav { display: flex; align-items: center; gap: 20px; flex-wrap: wrap; }
+  nav.site-nav a { color: #dce8ef; font-size: 0.95rem; }
+  nav.site-nav a:hover { color: #fff; }
+  .cta-button { background: var(--sun); color: var(--navy); font-weight: 700; padding: 10px 20px; border-radius: 6px; display: inline-block; white-space: nowrap; }
+  .cta-button:hover { background: var(--sun-deep); text-decoration: none; }
+  main { max-width: 720px; margin: 0 auto; padding: 0 24px; }
+  .article-header { padding: 48px 0 28px; border-bottom: 1px solid var(--line); }
+  .eyebrow { color: var(--sun-deep); font-weight: 700; font-size: 0.8rem; letter-spacing: 0.08em; text-transform: uppercase; }
+  h1.article-title { font-size: clamp(1.8rem, 4vw, 2.4rem); line-height: 1.2; margin: 10px 0 14px; color: var(--navy); }
+  .article-meta { color: var(--ink-soft); font-size: 0.92rem; }
+  article { padding: 32px 0 8px; }
+  article p { margin: 0 0 20px; font-size: 1.05rem; }
+  article h2 { color: var(--navy); font-size: 1.4rem; margin: 40px 0 14px; padding-top: 4px; }
+  article ul, article ol { margin: 0 0 20px; padding-left: 1.3em; }
+  article li { margin-bottom: 8px; font-size: 1.05rem; }
+  article strong { color: var(--navy); }
+  .callout { background: #fff; border: 1px solid var(--line); border-left: 4px solid var(--sun); border-radius: 6px; padding: 18px 20px; margin: 28px 0; }
+  .callout p { margin: 0; font-size: 1rem; }
+
+  .timeline { margin: 36px 0; border-left: 3px solid var(--line); padding-left: 0; list-style: none; }
+  .timeline-step { position: relative; padding: 0 0 30px 28px; }
+  .timeline-step:last-child { padding-bottom: 4px; }
+  .timeline-step::before {
+    content: "";
+    position: absolute;
+    left: -8px;
+    top: 4px;
+    width: 14px;
+    height: 14px;
+    border-radius: 50%;
+    background: var(--sun);
+    border: 2px solid var(--paper);
+  }
+  .timeline-week { color: var(--sun-deep); font-weight: 700; font-size: 0.82rem; text-transform: uppercase; letter-spacing: 0.04em; margin-bottom: 4px; }
+  .timeline-step h3 { margin: 0 0 6px; color: var(--navy); font-size: 1.15rem; }
+  .timeline-step p { margin: 0; font-size: 1rem; }
+
+  .inline-cta { background: var(--navy); color: #fff; border-radius: 10px; padding: 32px 28px; margin: 44px 0 48px; text-align: center; }
+  .inline-cta h3 { color: #fff; margin: 0 0 10px; font-size: 1.3rem; }
+  .inline-cta p { color: #dce8ef; margin: 0 0 20px; font-size: 1rem; }
+  .inline-cta .cta-button { font-size: 1.05rem; padding: 12px 28px; }
+  footer.site-footer { background: var(--navy); color: #b9c8d1; padding: 40px 24px 28px; margin-top: 40px; font-size: 0.92rem; }
+  footer.site-footer .footer-inner { max-width: 960px; margin: 0 auto; }
+  footer.site-footer strong { color: #fff; }
+  footer.site-footer .footer-links { margin: 14px 0; }
+  footer.site-footer .footer-links a { color: #dce8ef; margin-right: 16px; }
+  footer.site-footer .disclosure { margin-top: 18px; font-size: 0.8rem; color: #8fa3ad; line-height: 1.5; }
+  @media (max-width: 640px) { nav.site-nav { width: 100%; justify-content: flex-start; } .article-header { padding-top: 32px; } }
+</style>
+</head>
+<body>
+
+<header class="site-header">
+  <a class="brand" href="/">Portland Solar Removal &amp; Reinstall Pros</a>
+  <nav class="site-nav">
+    <a href="/#cities">Service Areas</a>
+    <a href="/#faq">FAQ</a>
+    <a class="cta-button" href="/#quote">Get Free Quote</a>
+  </nav>
+</header>
+
+<main>
+
+  <div class="article-header">
+    <div class="eyebrow">Project Planning</div>
+    <h1 class="article-title">The Solar Removal &amp; Reinstall Timeline: What to Expect Week by Week</h1>
+    <div class="article-meta">Portland Solar Removal &amp; Reinstall Pros</div>
+  </div>
+
+  <article>
+
+    <p>One of the most common questions we hear from Portland homeowners planning a roof replacement is simple: <strong>how long is this actually going to take?</strong></p>
+
+    <p>The honest answer is "it depends" — on system size, roof complexity, your roofer's schedule, and permit turnaround in your specific city or county. But most projects follow a similar shape. Here's a realistic week-by-week breakdown so you can plan around it.</p>
+
+    <h2>The short version</h2>
+
+    <p>For an average Portland metro residential system, total project time from first call to fully reinstalled and producing power typically runs <strong>3 to 6 weeks</strong>, with the bulk of that being permit processing and coordination with your roofer's schedule — not the physical work itself, which usually takes a day and a half total.</p>
+
+    <ul class="timeline">
+
+      <li class="timeline-step">
+        <div class="timeline-week">Week 1</div>
+        <h3>Quote, inspection, and contract</h3>
+        <p>A contractor inspects your system (often from photos plus a brief site visit), confirms your panel and inverter type, and provides a quote covering removal, storage, and reinstallation. Once you sign, they begin preparing permit paperwork.</p>
+      </li>
+
+      <li class="timeline-step">
+        <div class="timeline-week">Weeks 1–3</div>
+        <h3>Permitting and utility coordination</h3>
+        <p>This is usually the longest part of the whole process and the part homeowners most underestimate. Your contractor submits permits to your city or county and notifies your utility (PGE or Pacific Power) of the planned disconnect and reconnect. Processing time varies by jurisdiction — some Portland metro cities turn this around in days, others take a couple of weeks.</p>
+      </li>
+
+      <li class="timeline-step">
+        <div class="timeline-week">Week 3 (or whenever your roofer is ready)</div>
+        <h3>Panel removal — typically half a day</h3>
+        <p>The crew de-energizes the system, disconnects the panels, and carefully removes and labels each one along with the racking and mounting hardware. For an average 20–25 panel system, this usually takes about half a day. Panels are stored safely on-site or off-site depending on the project.</p>
+      </li>
+
+      <li class="timeline-step">
+        <div class="timeline-week">Week 3–4</div>
+        <h3>Roof replacement</h3>
+        <p>Your roofing contractor now has a clear roof to work with — no panels or mounting hardware in the way. This step is on your roofer's timeline, not your solar contractor's, though good coordination between the two keeps the gap as short as possible. Typical residential reroofs run anywhere from 1–5 days depending on size and roof complexity.</p>
+      </li>
+
+      <li class="timeline-step">
+        <div class="timeline-week">Immediately after roof completion</div>
+        <h3>Panel reinstallation — typically a full day</h3>
+        <p>Once the new roof is finished, the solar crew returns to reinstall racking, flashing, and panels to the original specifications (or improved specs, if anything needed upgrading). For most systems, this is a full day's work.</p>
+      </li>
+
+      <li class="timeline-step">
+        <div class="timeline-week">Within 1–3 days after reinstall</div>
+        <h3>Re-energizing, testing, and final inspection</h3>
+        <p>The system is reconnected, tested for proper performance, and — depending on your jurisdiction — may require a final inspection sign-off before it's cleared to operate again. Your contractor notifies the utility that the system is back online.</p>
+      </li>
+
+    </ul>
+
+    <h2>What can make this faster — or slower</h2>
+
+    <p>A few factors swing the total timeline significantly:</p>
+
+    <ul>
+      <li><strong>Permit turnaround in your specific city.</strong> This varies more than almost anything else in the process, and is largely out of any contractor's control.</li>
+      <li><strong>Your roofer's own schedule.</strong> If your roofing contractor is backed up, your solar reinstall waits on them — not the other way around.</li>
+      <li><strong>Weather.</strong> Pacific Northwest roofing work pauses for heavy rain, which can push back the whole sequence, especially in fall and winter.</li>
+      <li><strong>System complexity.</strong> A larger system, an unusual roof pitch, or older/non-standard racking can add time to both removal and reinstall.</li>
+      <li><strong>How early you start.</strong> Booking your solar contractor at the same time you book your roofer — rather than after the roof work is already scheduled — gives permits time to clear in parallel instead of becoming the bottleneck.</li>
+    </ul>
+
+    <div class="callout">
+      <p><strong>The single best way to shorten your timeline:</strong> contact your solar removal contractor as soon as you book your roofer, not after. Permitting can run in parallel with roof scheduling instead of adding time at the end.</p>
+    </div>
+
+    <h2>What happens to your power production during this time</h2>
+
+    <p>While your system is offline, you won't be generating solar power, so you'll be drawing standard grid power for that period. As outlined on our <a href="/#faq">FAQ</a>, PGE and Pacific Power both allow net metering credits to bank while a system is temporarily offline for this kind of project, and your contractor handles the disconnect/reconnect notifications with your utility so your account stays in good standing throughout.</p>
+
+    <h2>The bottom line</h2>
+
+    <p>Most of the calendar time in a removal-and-reinstall project is permitting and scheduling coordination — not the physical work, which typically wraps up in about a day and a half combined. Starting the permit process early and coordinating closely with your roofer are the two biggest levers for keeping your project on the shorter end of that 3–6 week range.</p>
+
+    <p>If you're planning a roof replacement and want a realistic timeline for your specific system and city, we can connect you with a Portland-area contractor who'll map it out before you commit to anything.</p>
+
+    <div class="inline-cta">
+      <h3>Get a realistic timeline for your project</h3>
+      <p>Free quote, same-day response, zero obligation.</p>
+      <a class="cta-button" href="/#quote">Get a Free Quote →</a>
+    </div>
+
+  </article>
+
+</main>
+
+<footer class="site-footer">
+  <div class="footer-inner">
+    <strong>Portland Solar Removal &amp; Reinstall Pros</strong><br>
+    Serving Portland, Beaverton, Hillsboro, Lake Oswego, Tigard, Tualatin, Gresham, Oregon City, Troutdale, Vancouver WA and all Portland metro communities.<br>
+    A solar contractor referral service connecting homeowners with licensed Oregon CCB contractors.
+    <div class="footer-links">
+      <a href="/#quote">Get a Free Quote</a>
+      <a href="/#cities">Service Areas</a>
+      <a href="/#faq">FAQ</a>
+    </div>
+    <div class="disclosure">
+      <strong>Disclosure:</strong> By submitting your information on this website, you agree that your contact details may be shared with local, licensed, and insured vendors who will reach out and contact you directly using the information provided. © 2026 Portland Solar Removal &amp; Reinstall Pros. All rights reserved.
+    </div>
+  </div>
+</footer>
+
+</body>
+</html>
