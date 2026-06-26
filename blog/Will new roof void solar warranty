@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Will a New Roof Void My Solar Warranty? What Actually Happens | Portland Solar Removal & Reinstall Pros</title>
+<meta name="description" content="Replacing your roof with solar panels installed? Here's what actually voids a solar warranty, what doesn't, and how to protect your coverage in Portland.">
+<style>
+  :root {
+    --navy: #0f2a3d;
+    --sun: #f5a623;
+    --sun-deep: #e0911a;
+    --sky: #2f7fb8;
+    --paper: #fbf9f5;
+    --ink: #1c2b33;
+    --ink-soft: #4a5a63;
+    --line: #e3ddd2;
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; color: var(--ink); background: var(--paper); line-height: 1.65; }
+  a { color: var(--sky); text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  a:focus-visible, button:focus-visible { outline: 3px solid var(--sun); outline-offset: 2px; }
+  header.site-header { background: var(--navy); color: #fff; padding: 16px 24px; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 12px; }
+  .brand { font-weight: 700; font-size: 1.05rem; color: #fff; letter-spacing: 0.01em; }
+  .brand:hover { text-decoration: none; opacity: 0.9; }
+  nav.site-nav { display: flex; align-items: center; gap: 20px; flex-wrap: wrap; }
+  nav.site-nav a { color: #dce8ef; font-size: 0.95rem; }
+  nav.site-nav a:hover { color: #fff; }
+  .cta-button { background: var(--sun); color: var(--navy); font-weight: 700; padding: 10px 20px; border-radius: 6px; display: inline-block; white-space: nowrap; }
+  .cta-button:hover { background: var(--sun-deep); text-decoration: none; }
+  main { max-width: 720px; margin: 0 auto; padding: 0 24px; }
+  .article-header { padding: 48px 0 28px; border-bottom: 1px solid var(--line); }
+  .eyebrow { color: var(--sun-deep); font-weight: 700; font-size: 0.8rem; letter-spacing: 0.08em; text-transform: uppercase; }
+  h1.article-title { font-size: clamp(1.8rem, 4vw, 2.4rem); line-height: 1.2; margin: 10px 0 14px; color: var(--navy); }
+  .article-meta { color: var(--ink-soft); font-size: 0.92rem; }
+  article { padding: 32px 0 8px; }
+  article p { margin: 0 0 20px; font-size: 1.05rem; }
+  article h2 { color: var(--navy); font-size: 1.4rem; margin: 40px 0 14px; padding-top: 4px; }
+  article ul, article ol { margin: 0 0 20px; padding-left: 1.3em; }
+  article li { margin-bottom: 8px; font-size: 1.05rem; }
+  article strong { color: var(--navy); }
+  .callout { background: #fff; border: 1px solid var(--line); border-left: 4px solid var(--sun); border-radius: 6px; padding: 18px 20px; margin: 28px 0; }
+  .callout p { margin: 0; font-size: 1rem; }
+  .inline-cta { background: var(--navy); color: #fff; border-radius: 10px; padding: 32px 28px; margin: 44px 0 48px; text-align: center; }
+  .inline-cta h3 { color: #fff; margin: 0 0 10px; font-size: 1.3rem; }
+  .inline-cta p { color: #dce8ef; margin: 0 0 20px; font-size: 1rem; }
+  .inline-cta .cta-button { font-size: 1.05rem; padding: 12px 28px; }
+  footer.site-footer { background: var(--navy); color: #b9c8d1; padding: 40px 24px 28px; margin-top: 40px; font-size: 0.92rem; }
+  footer.site-footer .footer-inner { max-width: 960px; margin: 0 auto; }
+  footer.site-footer strong { color: #fff; }
+  footer.site-footer .footer-links { margin: 14px 0; }
+  footer.site-footer .footer-links a { color: #dce8ef; margin-right: 16px; }
+  footer.site-footer .disclosure { margin-top: 18px; font-size: 0.8rem; color: #8fa3ad; line-height: 1.5; }
+  @media (max-width: 640px) { nav.site-nav { width: 100%; justify-content: flex-start; } .article-header { padding-top: 32px; } }
+</style>
+</head>
+<body>
+
+<header class="site-header">
+  <a class="brand" href="/">Portland Solar Removal &amp; Reinstall Pros</a>
+  <nav class="site-nav">
+    <a href="/#cities">Service Areas</a>
+    <a href="/#faq">FAQ</a>
+    <a class="cta-button" href="/#quote">Get Free Quote</a>
+  </nav>
+</header>
+
+<main>
+
+  <div class="article-header">
+    <div class="eyebrow">Warranty Guide</div>
+    <h1 class="article-title">Will a New Roof Void My Solar Warranty? What Actually Happens</h1>
+    <div class="article-meta">Portland Solar Removal &amp; Reinstall Pros</div>
+  </div>
+
+  <article>
+
+    <p>It's one of the first questions every homeowner asks once they realize their roof and their solar panels are tangled together: <strong>if I replace my roof, am I going to lose my solar warranty?</strong></p>
+
+    <p>The honest answer is: it depends entirely on who touches your system and how. A new roof itself doesn't void anything. What can void your warranty is the removal and reinstallation process — specifically, who performs it and whether it's done correctly. Here's what actually matters.</p>
+
+    <h2>There are two different warranties, not one</h2>
+
+    <p>Most homeowners think of "the solar warranty" as a single thing. In practice, your system is covered by at least two, sometimes three, separate warranties:</p>
+
+    <ul>
+      <li><strong>Manufacturer's equipment warranty</strong> — covers the panels and inverter themselves against defects, typically for 10–25 years depending on the brand.</li>
+      <li><strong>Installer's workmanship warranty</strong> — covers the labor and installation quality, usually issued by whoever originally installed your system, typically 5–10 years.</li>
+      <li><strong>Roofing warranty</strong> — covers your new roof, issued by your roofing contractor. This is a separate document entirely, but it can also be affected if solar penetrations aren't sealed correctly.</li>
+    </ul>
+
+    <p>A roof replacement, by itself, doesn't touch any of these. What puts them at risk is the removal and reinstallation of the panels — because that's a hands-on intervention with your electrical system, your racking, and your roof's surface.</p>
+
+    <h2>What actually voids a manufacturer's warranty</h2>
+
+    <p>Most major panel and inverter manufacturers — Enphase, SolarEdge, and others common in Portland metro installs — write their warranties to require that any removal, reinstallation, or service work be performed by a <strong>licensed, qualified installer</strong> following their published procedures. The warranty language usually doesn't care whether that's your <em>original</em> installer specifically — it cares whether the work was done correctly, by someone qualified, using proper procedures and torque specs for the racking and connectors.</p>
+
+    <p>Where homeowners get into trouble:</p>
+
+    <ul>
+      <li>A roofer (not a licensed solar contractor) removes and reinstalls the panels as a "favor" or bundled service</li>
+      <li>Panels are disconnected without following proper electrical shutdown procedures, risking damage to the inverter or microinverters</li>
+      <li>Racking hardware is reused when it shouldn't be, or reinstalled without correct torque, leading to mounting failures down the line</li>
+      <li>No documentation exists showing who did the work, when, or how — so if something fails later, there's no paper trail to support a warranty claim</li>
+    </ul>
+
+    <div class="callout">
+      <p><strong>The pattern to watch for:</strong> if the company offering to "throw in" panel removal as part of a roofing quote isn't a licensed solar/electrical contractor, that's exactly the scenario that tends to void coverage.</p>
+    </div>
+
+    <h2>Does it have to be my <em>original</em> installer?</h2>
+
+    <p>Usually not — but you do need to check. Some installers' workmanship warranties are specifically tied to work performed by their own company, meaning a different (even fully licensed) contractor touching the system could end your workmanship coverage, even if the manufacturer's equipment warranty stays intact.</p>
+
+    <p>This is worth a direct phone call or email to your original installer, or to the manufacturer's support line, before any work starts. Ask specifically: <em>"If a different licensed contractor removes and reinstalls my system for a roof replacement, does that affect my workmanship warranty? Does it affect my equipment warranty?"</em> Get the answer in writing if you can — a screenshot of an email reply is enough.</p>
+
+    <h2>What protects your warranty during a removal and reinstall</h2>
+
+    <p>The good news is that protecting your coverage isn't complicated. It comes down to a short list:</p>
+
+    <ul>
+      <li><strong>Use a licensed solar/electrical contractor</strong>, not a general roofing crew, for the removal and reinstall portion of the project.</li>
+      <li><strong>Ask for documentation</strong> — photos before removal, photos after reinstall, and a written summary of what was done.</li>
+      <li><strong>Confirm compatibility</strong> — make sure whoever reinstalls your system is familiar with your specific racking, inverter brand, and mounting type.</li>
+      <li><strong>Get it in writing</strong> from your original installer or the manufacturer about what is and isn't affected, before work begins.</li>
+      <li><strong>Keep your paperwork</strong> — invoices, permits, and any inspection sign-offs — in case you ever need to make a warranty claim later.</li>
+    </ul>
+
+    <h2>What about the roofing warranty?</h2>
+
+    <p>This direction matters too, and it's often overlooked. If the old solar mounting hardware leaves penetrations in your roof deck, your roofer needs those properly flashed and sealed before the new roofing material goes down — and your roofer's warranty may specifically exclude leaks related to solar penetrations they didn't install or weren't responsible for sealing.</p>
+
+    <p>This is one of the main reasons removal and reinstall companies coordinate directly with your roofing contractor rather than working in isolation: the handoff between "panels off" and "roof on" and "panels back on" needs clear responsibility at each step, so nobody's warranty has a gap in it.</p>
+
+    <h2>The bottom line</h2>
+
+    <p>A new roof doesn't void your solar warranty. Improper removal and reinstallation can. The fix is straightforward: hire a licensed solar contractor for that portion of the work, get documentation, and confirm in writing with your original installer or manufacturer what is and isn't affected before anyone touches your system.</p>
+
+    <p>If you're planning a roof replacement in the Portland metro and want to protect your existing solar warranty through the process, we can connect you with a licensed local contractor who'll walk you through exactly what's covered before any work begins.</p>
+
+    <div class="inline-cta">
+      <h3>Protect your warranty during your roof replacement</h3>
+      <p>Free quote, same-day response, zero obligation.</p>
+      <a class="cta-button" href="/#quote">Get a Free Quote →</a>
+    </div>
+
+  </article>
+
+</main>
+
+<footer class="site-footer">
+  <div class="footer-inner">
+    <strong>Portland Solar Removal &amp; Reinstall Pros</strong><br>
+    Serving Portland, Beaverton, Hillsboro, Lake Oswego, Tigard, Tualatin, Gresham, Oregon City, Troutdale, Vancouver WA and all Portland metro communities.<br>
+    A solar contractor referral service connecting homeowners with licensed Oregon CCB contractors.
+    <div class="footer-links">
+      <a href="/#quote">Get a Free Quote</a>
+      <a href="/#cities">Service Areas</a>
+      <a href="/#faq">FAQ</a>
+    </div>
+    <div class="disclosure">
+      <strong>Disclosure:</strong> By submitting your information on this website, you agree that your contact details may be shared with local, licensed, and insured vendors who will reach out and contact you directly using the information provided. © 2026 Portland Solar Removal &amp; Reinstall Pros. All rights reserved.
+    </div>
+  </div>
+</footer>
+
+</body>
+</html>
